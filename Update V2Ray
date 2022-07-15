@@ -1,10 +1,12 @@
 {
-"newVersion": "5.5",
-"apkUrl": "https://play.google.com/store/apps/details?id=com.azzphucdev.vpn",
+"newVersion": "1.0.4",
+"apkUrl": "https://play.google.com/store/apps/details?id=com.azzphuc.v2ray",
 "versionNotes":"
-- Phiên Bản Dưới 5.2 Sẽ Không Được Update Cấu Hình
+- Phiên Bản Dưới 1.0.4 Sẽ Không Được Update Cấu Hình
+- Fix Lỗi Allow Secure Cho Vless , Trojan , Vmess
+- Fix Lỗi Cài Đặt 
 - Cải Tiến Hiệu Xuất
-- Bảo Mật 03/07/2022
+- Bảo Mật 15/07/2022
 Đã Cập Nhật Phiên Bản Sửa Lỗi , Đổi Mới Giao Diện
 Máy Chủ Xịn Xò ♥️"
 }
