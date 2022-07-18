@@ -1,12 +1,10 @@
 {
-"newVersion": "1.0.4",
+"newVersion": "1.0.5",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.azzphuc.v2ray",
 "versionNotes":"
-- Phiên Bản Dưới 1.0.4 Sẽ Không Được Update Cấu Hình
-- Fix Lỗi Allow Secure Cho Vless , Trojan , Vmess
-- Fix Lỗi Cài Đặt 
+- Phiên Bản Dưới 1.0.5 Sẽ Không Được Update Cấu Hình
 - Cải Tiến Hiệu Suất
-- Bảo Mật 15/07/2022
+- Bảo Mật 18/07/2022
 Đã Cập Nhật Phiên Bản Sửa Lỗi , Đổi Mới Giao Diện
 Máy Chủ Xịn Xò ♥️"
 }
