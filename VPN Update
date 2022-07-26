@@ -1,13 +1,9 @@
 {
-"newVersion": "6.0",
+"newVersion": "6.1",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.azzphucdev.vpn",
 "versionNotes":"
-- Sửa Lỗi Coins
-- Thông Báo Online ( Dialog )
-- Thêm Tùy Chỉnh SSL SPOOF
-- Design Full NightMode
-- Giảm Lag Ứng Dụng , Cấu Hình
-- 2 Dns Hoạt Động
-- Hỗ Trợ Mạng Cho Philippines 
+- Sửa Lỗi Thoát App , Mất Mạng Không Tự Kết Nối
+- Thêm Thông Báo Hiện Thị Tốc Độ Mạng
+- Hỗ Trợ Tắt App ( Ngắt Kết Nối ) Nhanh , Kết Nối Lại Nếu Cần
 Lưu Ý : Bạn Sẽ Không Bị Mất Coins , Thời Gian Khi Cập Nhật Ứng Dụng"
 }
