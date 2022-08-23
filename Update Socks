@@ -1,10 +1,10 @@
 {
-"newVersion": "1.8",
+"newVersion": "1.9",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.azzphuc.sockshttp",
 "versionNotes":"
-- Sửa Lỗi Coins K Nhận Thời Gian
-- Sửa Lỗi Coins
-- Update Message , Auto Install Play Store
+- Fix SSL , SSL/PAYLOAD , SSL SPOOF
+- Thêm SlowDns ( DNSTT )
+- Đổi Cơ Chế Xem Ads
 Đã Cập Nhật Phiên Bản Sửa Lỗi , Đổi Mới Giao Diện
 Máy Chủ Xịn Xò ♥️"
 }
