@@ -1,11 +1,9 @@
 {
-"newVersion": "1.0.2",
+"newVersion": "1.0.3",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.azzphuc.v2ray",
 "versionNotes":"
-- Added 6 Protocol OVPN ( Support All Country )
-- Fixed Custom Setup
-- STS No Load In OVPN And SSH ♥️
-- Add Import Config V3 , Fixed Bugs Custom Setup
-- Bugs Fixed
-- New Server , Tweaks"
+- Added [SSH] App Filter ( Blocked App No Use )
+- Added Share Wifi HotSpot V2✓ ( Fast Share Internet)
+- Fixed Dialog , Per App Proxy ( V2Ray )
+- Added Guides"
 }
