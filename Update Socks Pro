@@ -1,9 +1,9 @@
 {
-"newVersion": "1.0.3",
+"newVersion": "1.0.4",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.azzphuc.v2ray",
 "versionNotes":"
-- Added [SSH] App Filter ( Blocked App No Use )
-- Added Share Wifi HotSpot V2✓ ( Fast Share Internet)
-- Fixed Dialog , Per App Proxy ( V2Ray )
-- Added Guides"
+- Sửa Toàn Bộ Lỗi Liên Quan Đến Service V2Ray ( Sửa Lỗi V2Ray K Nhận Kết Nối )
+- Time Service Giúp App Chạy Ngầm , Giữ Thời Gian Tốt Nhất ( Hỗ Trợ Thoát Tất Cả Chỉ Trong 1 Click )
+- Coins Manager ( Quy Đổi Thành Thời Gian , Chia Sẻ , Nhận Coins Online . Xem 1 Ads 3 Coins 🔥 )
+- Sửa Nhiều Lỗi Khác"
 }
