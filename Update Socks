@@ -1,10 +1,7 @@
 {
-"newVersion": "1.9",
-"apkUrl": "https://play.google.com/store/apps/details?id=com.azzphuc.sockshttp",
+"newVersion": "1.0.0",
+"apkUrl": "https://play.google.com/store/apps/details?id=com.azzphucdev2005.pro",
 "versionNotes":"
-- Fix SSL , SSL/PAYLOAD , SSL SPOOF
-- Thêm SlowDns ( DNSTT )
-- Đổi Cơ Chế Xem Ads
-Đã Cập Nhật Phiên Bản Sửa Lỗi , Đổi Mới Giao Diện
-Máy Chủ Xịn Xò ♥️"
+- Sửa Lỗi Quảng Cáo
+- Không Giới Hạn Thời Gian Sử Dụng"
 }
